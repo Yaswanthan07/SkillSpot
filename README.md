@@ -1,2 +1,2 @@
 # SkillSpot
-# SkillSpot - Where Technical Talent Meets Opportunity
+SkillSpot - Where Technical Talent Meets Opportunity
