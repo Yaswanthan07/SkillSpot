@@ -1,5 +1,7 @@
 <h1 align="center">✨ SkillSpot - Full-Stack Interview Platform ✨</h1>
-SkillSpot - Where Technical Talent Meets Opportunity
+<h3 align="center">SkillSpot - Where Technical Talent Meets Opportunity</h3>
+
+---
 
 ✨ Highlights:
 
